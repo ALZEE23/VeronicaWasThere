@@ -1,6 +1,5 @@
 # VeronicaWasThere
 
-Pembuka : 
 Veronika telah tewas menggantukan dirinya... dimalam itu aku membunuh nya... 
 
 
