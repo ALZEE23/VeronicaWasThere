@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "dc74c8268120feb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79d582705e949f7",
+        "type": "tabs",
+        "dimension": 43.689320388349515,
+        "children": [
+          {
+            "id": "ac6cc3449bdecbde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "779c6236549565f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reference"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ad9a675e404742e0",
+        "type": "tabs",
+        "dimension": 56.310679611650485,
+        "children": [
+          {
+            "id": "5f8a1e84a53a3c0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/I Was Thinking About You.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "I Was Thinking About You.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0893a6881d37f6ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e651c61320bed766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2751ba66f58f9e90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d99387675937d47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03c6da531a323870",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "af9bd48108a5abbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef0760bb95dcc02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d258de1b0ce65ea2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "c3708364ecae3961",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "58ee37ef9f5e234b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "31162c5e8b81970b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Otak gua.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Otak gua"
+            }
+          },
+          {
+            "id": "d95c07401b51f782",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "779c6236549565f4",
+  "lastOpenFiles": [
+    "Until then game.jpg",
+    "Until Then (Nicole and Mark).jpg",
+    "Cathy.jpg",
+    "jpg(1)",
+    "jpg",
+    "mark until then wallpaper blue.jpg",
+    "Excalidraw/I Was Thinking About You.excalidraw.md",
+    "Reference.md",
+    "README.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-07-27 01.02.21.excalidraw.md",
+    "2025-08-06.md",
+    "Kerjaan gua setiap hari.md",
+    "Otak gua.canvas",
+    "2025-07-27.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
