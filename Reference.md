@@ -3,3 +3,4 @@
 ### Until Then 
 aku pengen dia punya visual yang mirip until then tapi nanti ada bagian kayak first person nya tapi tangan nya pixel gitu kayak doom buat scene gameplay ngejar
 
+https://chatgpt.com/share/689d1fce-cf30-8008-bd5a-0038e2054fbc
